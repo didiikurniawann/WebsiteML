@@ -1,0 +1,62 @@
+.header{
+  background: #2c3e50;
+  width: 100%;
+  height: 50px;
+  word-spacing: 50px;
+
+}
+
+.hed1{
+  
+  width: 30%;
+  height: 40px;
+}
+
+.konten2{
+  background: #e74c3c;
+  width: 100%;
+  height: 400px;
+}
+
+.news{
+  background: #2980b9;
+  width: 30%;
+  height: 40px;
+}
+
+.berita1{
+  background: #e74c3c;
+  width: 100%;
+  height: 100px;
+}
+
+.berita2{
+  background: #2980b9;
+  width: 100%;
+  height: 100px;
+}
+
+.spotlight{
+  background: #2980b9;
+  width: 30%;
+  height: 40px;
+}
+
+.video1{
+  background: #e74c3c;
+  width: 80%;
+  height: 200px;
+}
+
+.video2{
+  background: #2980b9;
+  width: 80%;
+  height: 200px;
+}
+td{
+  padding-left:  20px;
+}
+footer{
+  background-color:#2980b9;
+  height:100px;
+}
